@@ -3,6 +3,9 @@
 *.log
 *.pyc
 *.swp
+.firebase.json
+firebase_options.dart
+google-services.json
 .DS_Store
 .atom/
 .build/
@@ -11,7 +14,6 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
-
 # IntelliJ related
 *.iml
 *.ipr
