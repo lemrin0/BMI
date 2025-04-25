@@ -4,12 +4,17 @@
 A multi-language Flutter application for calculating and tracking BMI metrics with Firebase integration.
 
 ## Screens
-![BMI_login](https://github.com/user-attachments/assets/e5ee07ca-e864-4566-9546-60868c92b180)
-![BMI_Register](https://github.com/user-attachments/assets/6feb40b8-fe07-45b9-9fc2-c95d591e0305)
-![BMI_home-1](https://github.com/user-attachments/assets/c59e08d0-1a8a-48d4-a2f7-3ec3a79d764d)
-![BMI_home-2](https://github.com/user-attachments/assets/e72b9511-910b-40f2-9403-762bfb3c9082)
-![BMI_Profile](https://github.com/user-attachments/assets/2506d13e-9f16-4da0-a453-8f515003d1f7)
-![BMI_History](https://github.com/user-attachments/assets/611c6df8-c24a-4230-a7c6-4f62aa0cf69d)
+![BMI_login](![BMI_login](https://github.com/user-attachments/assets/62948e7f-1abb-4f74-bb44-01852f0319b1))
+![BMI_Register](![BMI_Register](https://github.com/user-attachments/assets/5d1998f9-c8f7-4ada-9818-26452624a2f7)
+)
+![BMI_home-1](![BMI_home-1](https://github.com/user-attachments/assets/fd4e8b93-cebb-41f7-9782-fec0b5874fb1)
+)
+![BMI_home-2](![BMI_home-2](https://github.com/user-attachments/assets/a8173d2a-d433-43e0-b4c4-fcdfd8bd069d)
+)
+![BMI_Profile](![BMI_Profile](https://github.com/user-attachments/assets/871e5f9b-796e-4cbe-a900-d6bea0919f7a)
+)
+![BMI_History](![BMI_History](https://github.com/user-attachments/assets/704335aa-a08b-4bfd-acf9-b9882923a1d7)
+)
 
 ## BMI Diagramme de sequence
 ![BMI Diagramme de sequence](https://github.com/user-attachments/assets/cd9f25bc-0f39-44ef-bcc9-39657ef81881)
